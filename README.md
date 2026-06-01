@@ -12,8 +12,6 @@ Building web applications, mobile apps, and AI-powered solutions that solve real
 
 ## 🚀 About Me
 
-## 🚀 About Me
-
 🎓 Computer Engineering Student
 
 💻 Full Stack Developer specializing in modern web and mobile applications
@@ -29,6 +27,7 @@ Building web applications, mobile apps, and AI-powered solutions that solve real
 🧠 Regularly solving Data Structures & Algorithms problems
 
 ⚡ Passionate about turning ideas into production-ready software
+
 ---
 
 ## 🛠️ Tech Stack
@@ -80,6 +79,7 @@ Building web applications, mobile apps, and AI-powered solutions that solve real
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
+
 ---
 
 ## 🚀 Featured Projects
