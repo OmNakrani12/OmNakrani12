@@ -1,34 +1,34 @@
 <h1 align="center">Hi 👋, I'm Om Nakrani</h1>
 
 <h3 align="center">
-Software Developer • React Native Developer • AI/ML Enthusiast
+Full Stack Developer • React Native Developer • AI/ML Enthusiast
 </h3>
 
 <p align="center">
-Building mobile applications, machine learning solutions, and real-world software projects.
+Building web applications, mobile apps, and AI-powered solutions that solve real-world problems.
 </p>
 
 ---
 
 ## 🚀 About Me
 
-🎓 Computer Engineering Student from India
+## 🚀 About Me
 
-📱 Passionate about Mobile App Development using React Native and Expo
+🎓 Computer Engineering Student
+
+💻 Full Stack Developer specializing in modern web and mobile applications
+
+📱 Building cross-platform apps using React Native and Expo
+
+🌐 Developing scalable web applications with Next.js
 
 🤖 Exploring Artificial Intelligence, Machine Learning, and AWS SageMaker
 
-💻 Regularly solving Data Structures & Algorithms problems
+☁️ Learning Cloud Technologies and Deployment Strategies
 
-🌱 Currently learning:
-- Advanced React Native
-- AWS Cloud Services
-- Machine Learning Deployment
-- System Design
+🧠 Regularly solving Data Structures & Algorithms problems
 
-⚡ Goal:
-Build scalable products that solve real-world problems.
-
+⚡ Passionate about turning ideas into production-ready software
 ---
 
 ## 🛠️ Tech Stack
@@ -37,6 +37,12 @@ Build scalable products that solve real-world problems.
 
 <p>
 <img src="https://skillicons.dev/icons?i=cpp,python,java,javascript,typescript,sql" />
+</p>
+
+### Frontend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" />
 </p>
 
 ### Mobile Development
@@ -52,14 +58,13 @@ Build scalable products that solve real-world problems.
 ### Backend & Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,mysql,firebase" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,firebase" />
 </p>
 
 - SQLite
-- MySQL
-- Firebase
+- REST APIs
 
-### AI / ML
+### AI / ML & Cloud
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,aws" />
@@ -73,46 +78,66 @@ Build scalable products that solve real-world problems.
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
-
 ---
 
 ## 🚀 Featured Projects
 
-### 📍 Routiq
+### 🤖 ResuNexa — AI Resume Analyzer
 
-Smart roadmap and productivity application built with React Native.
+An AI-powered resume analysis platform designed to help candidates improve their resumes and increase job readiness.
 
-✨ Features:
-- Goal Tracking
-- Roadmap Planning
-- Progress Monitoring
-- Mobile-first Experience
+**Tech Stack**
+- Next.js
+- Firebase Authentication
+- Firebase RTDB
 
----
-
-### 🤖 Resume Analyzer
-
-AI-powered resume analysis platform.
-
-✨ Features:
-- Resume Parsing
-- Skill Analysis
-- Resume Scoring
-- AI-based Recommendations
+**Features**
+- Resume parsing
+- Skill extraction
+- Resume scoring
+- AI-powered recommendations
+- Candidate Resume analysis
+- Roadmap generator
 
 ---
 
-### 📝 ExamEase
+### 💼 QuickHire — Smart Hiring Platform
 
-Google Classroom-inspired examination management system.
+A recruitment platform that connects job seekers and recruiters through a streamlined hiring process.
 
-✨ Features:
-- Student Management
-- Assignment Tracking
-- Exam Handling
-- Academic Workflow Automation
+**Tech Stack**
+- React
+- Spring Boot
+- PostgreSQL
+- Firebase Authentication
+
+**Features**
+- Job posting and management
+- Candidate applications
+- Recruiter dashboard
+- Profile management
+- Hiring workflow automation
+
+---
+
+### 💰 SplitGrow — Expense & Financial Management Platform
+
+A collaborative expense management application designed to simplify shared spending and financial tracking.
+
+**Tech Stack**
+- React Native
+- Next.js
+- Firebase Authentication
+- Firebase RealTime Database
+
+**Features**
+- Expense splitting
+- Group management
+- Transaction tracking
+- Financial insights
+- Real-time balance calculations
 
 ---
 
@@ -133,6 +158,7 @@ I actively practice:
 
 - Arrays
 - Strings
+- Hash Table
 - Trees
 - Graphs
 - Dynamic Programming
@@ -143,8 +169,16 @@ I actively practice:
 Platforms:
 
 - LeetCode
-- GeeksforGeeks
-- Coding Ninjas
+- TakeUForward
+
+---
+## 📈 Coding Profiles
+
+<p align="center">
+  <a href="https://leetcode.com/u/omnakrani/">
+    <img src="https://leetcard.jacoblin.cool/omnakrani?theme=dark&font=Nunito" />
+  </a>
+</p>
 
 ---
 
@@ -168,7 +202,7 @@ Platforms:
 
 ## 🎯 Current Focus
 
-- Building production-ready React Native applications
+- Building production-ready Full Stack web applications and React Native applications
 - Learning Cloud & DevOps concepts
 - Deploying Machine Learning models
 - Improving problem-solving skills
@@ -178,11 +212,9 @@ Platforms:
 
 ## 📫 Connect With Me
 
-📧 Email: your-email@example.com
+📧 Email: omnakrani971@gmail.com
 
-💼 LinkedIn: https://linkedin.com/in/your-linkedin
-
-🌐 Portfolio: Coming Soon
+💼 LinkedIn: https://in.linkedin.com/in/om-nakrani-343026285
 
 ---
 
