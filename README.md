@@ -35,7 +35,7 @@ Building web applications, mobile apps, and AI-powered solutions that solve real
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=cpp,python,java,javascript,typescript,sql" />
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java,javascript,sql" />
 </p>
 
 ### Frontend Development
